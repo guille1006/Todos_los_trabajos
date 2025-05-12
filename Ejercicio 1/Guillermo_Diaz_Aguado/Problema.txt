@@ -1,0 +1,1 @@
+Tengo un problema y en el default dict se guarda todo al exportarlo , no entiendo por que 
